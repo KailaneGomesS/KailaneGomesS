@@ -1,5 +1,10 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=19&pause=1000&color=96FFCD&width=435&lines=Seja+bem-vindo.+N%C3%A3o+repare+a+bagun%C3%A7a.+)](https://git.io/typing-svg)
+### 
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&center=true&vCenter=true&width=560&lines=Seja+bem-vindo.+N%C3%A3o+repare+a+bagun%C3%A7a.)](https://git.io/typing-svg)
+- - -
 <h1 align="center">⚜</h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KailaneGomesS&show_icons=true&theme=swift)
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">⚜</h1>
