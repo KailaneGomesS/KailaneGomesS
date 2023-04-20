@@ -9,6 +9,9 @@
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">⚜</h1>
 <!--
+
+<a href="https://metrics.lecoq.io/insights/KailaneGomesS" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
+
 **KailaneGomesS/KailaneGomesS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
