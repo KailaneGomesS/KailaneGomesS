@@ -4,15 +4,25 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&center=true&vCenter=true&width=560&lines=Seja+bem-vindo.+N%C3%A3o+repare+a+bagun%C3%A7a.)](https://git.io/typing-svg)
 - - -
 <h1 align="center">⚜</h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KailaneGomesS&show_icons=true&theme=swift)
+  <div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=KailaneGomesS&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KailaneGomesS&theme=merko"/>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 ## Linguagens Utilizadas
+<div align="center">
 
-<div style="display: inline_block"> <br/> 
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />                                             
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+<div align="center">
+<a href="https://github.com/KailaneGomesS">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailaneGomesS&theme=merko"/> 
+</div>
+
+</div>
 </div>
 <h1 align="center">⚜</h1>
 <!--
