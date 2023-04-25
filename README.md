@@ -1,7 +1,7 @@
 ### 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&center=true&vCenter=true&width=560&lines=Seja+bem-vindo.+N%C3%A3o+repare+a+bagun%C3%A7a.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&center=true&vCenter=true&width=560&lines=Seja+bem-vindo.+Boa+leitura.)](https://git.io/typing-svg)
 - - -
 <img height="600em" src="https://user-images.githubusercontent.com/124894214/233796708-9812a64f-3d8b-45c4-8ee9-c289615250b3.jpg"/> 
 <h1 align="center">⚜</h1>
